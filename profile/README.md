@@ -20,6 +20,7 @@ The best ways to keep up to date with our latest moves are:
 - on [GitHub discussions](https://github.com/orgs/dlcv-journal-club/discussions)
 
 ## 🤪 Organisers
+The journal club is organised by these fantastic folks at [UCL ARC Collaborations](https://www.ucl.ac.uk/advanced-research-computing/collaborations-and-consultancy)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
