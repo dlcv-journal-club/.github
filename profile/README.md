@@ -53,7 +53,7 @@ The best ways to keep up to date with our latest moves are:
 		<!-- ADD GITHUB USERNAME AND HASH FOR GITHUB PHOTO -->
 		<a href="https://github.com/???"><img src="https://avatars1.githubusercontent.com/u/23114020?v=4?s=100" width="100px;" alt=""/>
 		<br />
-			<sub> <b>Lynn </b> </sub>        
+			<sub> <b>Lynn Kandakji</b> </sub>        
 		</a>
 		<br />
 			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
