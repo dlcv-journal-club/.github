@@ -16,7 +16,7 @@ Both will be held online! The Teams link will be circulated closer to the date.
 Check out our [format guidelines](https://github.com/dlcv-journal-club/.github/blob/main/format.md) and feel free to contact us with any talk suggestions!
 
 The best ways to keep up to date with our latest moves are:
-- our slack channel #dl-cv-journal-club at the [UCL Research Programming Hub](ucl-programming-hub.slack.com)
+- our slack channel #dl-cv-journal-club at the [UCL Research Programming Hub](https://ucl-programming-hub.slack.com)
 - on [GitHub discussions](https://github.com/orgs/dlcv-journal-club/discussions)
 
 ## 🤪 Organisers
