@@ -1,3 +1,7 @@
+## 🗓️ Previous sessions
+
+Supporting material for each session coming soon! Stay tuned 📡
+
 | Date | Title | Speaker | 
 |-------------------|--------|----------|
 | 27th July 2023        | Introduction to Text-to-Image Models     | Harvey Mannering |
