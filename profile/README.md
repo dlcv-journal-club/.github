@@ -11,6 +11,7 @@ To keep up to date with latest developments in deep learning and computer vision
 
 Text-to-Image Models
 
-## Contact Us
+## Interested in presenting?
+Check out [our format guidelines](../format.md) and feel free to contact us with topic suggestions!
 
 Kandakji Lynn, Mannering Harvey  Minano Sofia, and Xochicale Miguel
