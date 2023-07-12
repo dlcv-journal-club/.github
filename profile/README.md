@@ -1,5 +1,7 @@
 # Deep Learning and Computer Vision Journal Club
 
+![banner.png](banner.png)
+
 ## Aims
 Deep Learning and Computer Vision Journal Club aims to create a productive space for conversation on reseach computing including articles, blogs, papers with code, datasets and codebases.
 
