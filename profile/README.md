@@ -10,7 +10,9 @@ Our next speaker will be Harvey Mannering, who will be talking about ***"Introdu
 - the intro session will be held on **Thursday 27th July 2023, at 3pm**
 - the coding session will be held on **Friday 28th July 2023, at 3pm**
 
-Both will be held online! The Teams link will be circulated closer to the date.
+Both sessions will be held online! The Teams link will be circulated closer to the date.
+
+And [here](https://github.com/dlcv-journal-club/.github/blob/main/schedule.md) you can find a list of all our previous sessions with their supporting material. Enjoy! 🤓
 
 ## ⭐ Interested in presenting or keeping in touch?
 Check out our [format guidelines](https://github.com/dlcv-journal-club/.github/blob/main/format.md) and feel free to contact us with any talk suggestions!
