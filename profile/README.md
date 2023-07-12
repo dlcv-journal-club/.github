@@ -7,18 +7,19 @@ Our goal is to keep up to date with latest developments in deep learning and com
 
 ## 📢 Next Speaker 
 Our next speaker will be Harvey Mannering, who will be talking about ***"Introduction to Text-to-Image models"***
-- the intro session will be held on Thursday 27th July 2023, at 3pm
-- the coding session will be held on Friday 28th July 2023, at 3pm
-Both will be held online!
+- the intro session will be held on **Thursday 27th July 2023, at 3pm**
+- the coding session will be held on **Friday 28th July 2023, at 3pm**
+
+Both will be held online! The Teams link will be circulated closer to the date.
 
 ## ⭐ Interested in presenting or keeping in touch?
 Check out our [format guidelines](https://github.com/dlcv-journal-club/.github/blob/main/format.md) and feel free to contact us with any talk suggestions!
 
-To keep up to date with our latest news:
-- slack
-- discussions
+The best ways to keep up to date with our latest moves are:
+- our slack channel #dl-cv-journal-club at the [UCL Research Programming Hub](ucl-programming-hub.slack.com)
+- on [GitHub discussions](https://github.com/orgs/dlcv-journal-club/discussions)
 
-## Organisers
+## 🤪 Organisers
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
