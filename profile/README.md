@@ -1,4 +1,3 @@
-# Deep Learning and Computer Vision Journal Club
 ![banner](https://github.com/dlcv-journal-club/.github/blob/main/profile/banner.png)
 
 ## Aims
