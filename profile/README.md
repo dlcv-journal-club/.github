@@ -11,6 +11,6 @@ To keep up to date with latest developments in deep learning and computer vision
 Text-to-Image Models
 
 ## Interested in presenting?
-Check out [our format guidelines](../format.md) and feel free to contact us with topic suggestions!
+Check out our [format guidelines](https://github.com/dlcv-journal-club/.github/blob/main/format.md) and feel free to contact us with any talk suggestions!
 
-Kandakji Lynn, Mannering Harvey  Minano Sofia, and Xochicale Miguel
+Kandakji Lynn, Mannering Harvey,  Minano Sofia, and Xochicale Miguel
