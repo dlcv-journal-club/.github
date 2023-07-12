@@ -1,15 +1,66 @@
 ![banner](https://github.com/dlcv-journal-club/.github/blob/main/profile/banner.png)
 
-## Aims
-Deep Learning and Computer Vision Journal Club aims to create a productive space for conversation on reseach computing including articles, blogs, papers with code, datasets and codebases.
+## 🎯 Aims 
+The Deep Learning and Computer Vision Journal Club aims to create a productive space for conversation on reseach computing including articles, blogs, papers with code, datasets and codebases.
 
-To keep up to date with latest developments in deep learning and computer vision, and understand the gist behind the ideas that have revolutionised the field (e.g., transformers, stable-diffusion models).
+Our goal is to keep up to date with latest developments in deep learning and computer vision, and understand the gist behind the ideas that have revolutionised the field (e.g., transformers, stable-diffusion models).
 
-## Next Speaker
+## 📢 Next Speaker 
+Our next speaker will be Harvey Mannering, who will be talking about ***"Introduction to Text-to-Image models"***
+- the intro session will be held on Thursday 27th July 2023, at 3pm
+- the coding session will be held on Friday 28th July 2023, at 3pm
+Both will be held online!
 
-Text-to-Image Models
-
-## Interested in presenting?
+## ⭐ Interested in presenting or keeping in touch?
 Check out our [format guidelines](https://github.com/dlcv-journal-club/.github/blob/main/format.md) and feel free to contact us with any talk suggestions!
 
-Kandakji Lynn, Mannering Harvey,  Minano Sofia, and Xochicale Miguel
+To keep up to date with our latest news:
+- slack
+- discussions
+
+## Organisers
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+	<td align="center">
+		<a href="https://github.com/sfmig"><img src="https://avatars1.githubusercontent.com/u/33267254?v=4?s=100" width="100px;" alt=""/>
+		<br />
+			<sub> <b>Sofia Miñano</b> </sub>        
+		</a>
+		<br />
+	</td>
+	<!-- CONTRIBUTOR -->
+	<td align="center">
+		<a href="https://github.com/harveymannering"><img src="https://avatars1.githubusercontent.com/u/60523103?v=4?s=100" width="100px;" alt=""/>
+		<br />
+			<sub> <b>Harvey Mannering</b> </sub>        
+		</a>
+		<br />
+	</td>
+	<!-- CONTRIBUTOR -->
+	<td align="center">
+		<a href="https://github.com/budai4medtech"><img src="https://avatars1.githubusercontent.com/u/11370681?v=4?s=100" width="100px;" alt=""/>
+			<br />
+			<sub><b>Miguel Xochicale</b></sub>          
+			<br />
+		</a>
+	</td>
+  <!-- CONTRIBUTOR -->
+	<td align="center">
+		<!-- ADD GITHUB USERNAME AND HASH FOR GITHUB PHOTO -->
+		<a href="https://github.com/???"><img src="https://avatars1.githubusercontent.com/u/23114020?v=4?s=100" width="100px;" alt=""/>
+		<br />
+			<sub> <b>Lynn </b> </sub>        
+		</a>
+		<br />
+			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
+	</td>
+	<!-- CONTRIBUTOR -->
+  </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
